@@ -1,2 +1,2 @@
 # jomblo
-My *%^&amp;#$%@! esoteric (joke) language
+My interpreter *%^&amp;#$%@! esoteric (joke) language
