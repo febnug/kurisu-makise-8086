@@ -2,6 +2,7 @@
 
 ---
 <h3>What is this ?</h3>
+<p><i>soon..</i></p>
 <!--
 <p>This is just a <b>dummy</b> project I've got inspired from anime <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a> and <a href="https://steins-gate.fandom.com/wiki/PhoneWave">PhoneWave</a> -->
 
@@ -21,3 +22,7 @@
 00000020  6a 6d 54 c3                                       |jmT.|
 00000024
 </pre>
+
+<strike><h3>Easter Egg</h3></strike>
+</p>This program will terminated exit code 36, you can check it using turbo debugger</p>
+<img src="https://github.com/febnug/kurisu/blob/main/kurisu-debug.png"/>
