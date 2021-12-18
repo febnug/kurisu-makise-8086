@@ -22,7 +22,8 @@ we assemble. The funny fact is when this program only executes DOS exit code fun
 <p>Using <a href="https://nasm.us">NASM</a>, just typing <code>nasm -f bin -o kurisu.com kurisu.asm</code> on your terminal or cmd
   
 <h3>How to run</h3>
-<p>This is just works well under DOSBox, so you need DOSBox to run this program</p>
+<p>This is just works well under DOSBox or FreeDOS</p>
+<pre>C:\> kurisu.com</pre>
 
 <h3>Hexdump</h3>
 <pre>
