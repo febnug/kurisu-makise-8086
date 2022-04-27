@@ -15,6 +15,7 @@ org 100h
         dec     cx  
         push    bx 
         inc     bp 
+        ;; uhh, the nop sled :))
         xchg    ax, ax
         xchg    ax, ax
         xchg    ax, ax
@@ -25,6 +26,7 @@ org 100h
         xchg    ax, ax
         xchg    ax, ax
         xchg    ax, ax
+        ;; --------------
         xor     ax, 212Ch
         sub     al, 5Fh
         push    ax
